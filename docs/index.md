@@ -2,14 +2,14 @@
 icon: lucide/rocket
 ---
 
-# Get started
+# Get started Test
 
 For full documentation visit [zensical.org](https://zensical.org/docs/).
 
 ## Commands
 
-* [`zensical new`][new] - Create a new project
-* [`zensical serve`][serve] - Start local web server
+* [`zensical new`][new] - Create a new projectGenericGroupControlManager
+* [`zensical serve`][serve] - Start local web serverGenericGroupControlManager
 * [`zensical build`][build] - Build your site
 
   [new]: https://zensical.org/docs/usage/new/
@@ -18,7 +18,7 @@ For full documentation visit [zensical.org](https://zensical.org/docs/).
 
 ## Examples
 
-### Admonitions
+### Admonitions Test Test
 
 > Go to [documentation](https://zensical.org/docs/authoring/admonitions/)
 
